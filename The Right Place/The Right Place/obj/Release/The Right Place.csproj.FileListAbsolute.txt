@@ -1,0 +1,33 @@
+H:\TRP UPDATED\The Right Place\The Right Place\bin\ApplicationInsights.config
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\csc.exe
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\System.Collections.Immutable.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\System.Reflection.Metadata.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\vbc.exe
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe.config
+H:\TRP UPDATED\The Right Place\The Right Place\bin\The Right Place.dll.config
+H:\TRP UPDATED\The Right Place\The Right Place\bin\The Right Place.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\The Right Place.pdb
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.Agent.Intercept.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.Web.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.xml
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.Web.xml
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.xml
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.xml
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\TRP UPDATED\The Right Place\The Right Place\obj\Release\The Right Place.csprojResolveAssemblyReference.cache
+H:\TRP UPDATED\The Right Place\The Right Place\obj\Release\The Right Place.dll
+H:\TRP UPDATED\The Right Place\The Right Place\obj\Release\The Right Place.pdb

@@ -1,0 +1,100 @@
+﻿body {
+    background-color:mintcream;
+
+}
+
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    color:black;
+    font-size:30px;
+}
+
+h4{
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    font-size: 24px;
+}
+
+h5{
+    font-family:Arial, Helvetica, sans-serif;
+    color:orangered;
+    font-weight:700;
+    font-size: 16px;
+}
+
+h6{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color:black;
+    font-weight: bold;
+}
+
+.lbBallroom{
+    color:orangered;
+    margin: 0px 0px 0px 120px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.lbBallroom:hover{
+    color:black;
+}
+
+.lbCourtyard{
+    color:orangered;
+    margin: 0px 0px 0px 120px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.lbCourtyard:hover{
+    color:black;
+}
+
+.lbAuditorium{
+    color:orangered;
+    margin: 0px 0px 0px 120px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.lbAuditorium:hover{
+    color:black;
+}
+
+.lbSmall{
+    color:orangered;
+    margin: 0px 0px 0px 120px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.lbSmall:hover{
+    color:black;
+}
+
+.lb200{
+    color:orangered;
+    margin: 0px 0px 0px 120px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.lb200:hover{
+    color:black;
+}
+
+.lb50{
+    color:orangered;
+    margin: 0px 0px 0px 120px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.lb50:hover{
+    color:black;
+}
+
+.lb15{
+    color:orangered;
+    margin: 0px 0px 0px 120px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.lb15:hover{
+    color:black;
+}

@@ -1,0 +1,62 @@
+﻿body {
+    background-color: mintcream;
+}
+
+h1 {
+    color: black;
+}
+
+.h4.Contact {
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+.h6.ContactE {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.h6.ContactP {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+a {
+    color: black;
+    font-family: 'Arial Rounded MT';
+    font-size: 22px;
+}
+
+    a.Contact {
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+    }
+
+.ddlRoomlist {
+    color: black;
+    background-color: orangered;
+    border-color: orangered;
+    font-family: 'Arial Rounded MT';
+    font-size: 22px;
+}
+
+.navbar {
+    background-color: orangered;
+    overflow: hidden;
+    width: 100%;
+}
+
+
+
+.img.Logo {
+    width: 309px;
+    height: 121px;
+    background-color: mintcream;
+}

@@ -1,0 +1,299 @@
+E:\ADV Programming\The Right Place\The Right Place\obj\Debug\The Right Place.csprojResolveAssemblyReference.cache
+E:\ADV Programming\The Right Place\The Right Place\bin\ApplicationInsights.config
+E:\ADV Programming\The Right Place\The Right Place\bin\roslyn\csc.exe
+E:\ADV Programming\The Right Place\The Right Place\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ADV Programming\The Right Place\The Right Place\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ADV Programming\The Right Place\The Right Place\bin\roslyn\System.Collections.Immutable.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\roslyn\System.Reflection.Metadata.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\roslyn\vbc.exe
+E:\ADV Programming\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe
+E:\ADV Programming\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe.config
+E:\ADV Programming\The Right Place\The Right Place\bin\The Right Place.dll.config
+E:\ADV Programming\The Right Place\The Right Place\bin\The Right Place.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\The Right Place.pdb
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.AI.Web.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.xml
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.AI.Web.xml
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.xml
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.xml
+E:\ADV Programming\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ADV Programming\The Right Place\The Right Place\obj\Debug\The Right Place.dll
+E:\ADV Programming\The Right Place\The Right Place\obj\Debug\The Right Place.pdb
+H:\The Right Place\The Right Place\bin\ApplicationInsights.config
+H:\The Right Place\The Right Place\bin\roslyn\csc.exe
+H:\The Right Place\The Right Place\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\The Right Place\The Right Place\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\The Right Place\The Right Place\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\The Right Place\The Right Place\bin\roslyn\System.Collections.Immutable.dll
+H:\The Right Place\The Right Place\bin\roslyn\System.Reflection.Metadata.dll
+H:\The Right Place\The Right Place\bin\roslyn\vbc.exe
+H:\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe
+H:\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe.config
+H:\The Right Place\The Right Place\bin\The Right Place.dll.config
+H:\The Right Place\The Right Place\bin\The Right Place.dll
+H:\The Right Place\The Right Place\bin\The Right Place.pdb
+H:\The Right Place\The Right Place\bin\Microsoft.AI.Agent.Intercept.dll
+H:\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.dll
+H:\The Right Place\The Right Place\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\The Right Place\The Right Place\bin\Microsoft.AI.Web.dll
+H:\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.dll
+H:\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.dll
+H:\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.xml
+H:\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\The Right Place\The Right Place\bin\Microsoft.AI.Web.xml
+H:\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.xml
+H:\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.xml
+H:\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\The Right Place\The Right Place\obj\Debug\The Right Place.csprojResolveAssemblyReference.cache
+H:\The Right Place\The Right Place\obj\Debug\The Right Place.dll
+H:\The Right Place\The Right Place\obj\Debug\The Right Place.pdb
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\ApplicationInsights.config
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\roslyn\csc.exe
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\roslyn\vbc.exe
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\The Right Place.dll.config
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\The Right Place.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\The Right Place.pdb
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.Web.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.Web.xml
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.xml
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\obj\Debug\The Right Place.csprojResolveAssemblyReference.cache
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\obj\Debug\The Right Place.dll
+C:\Users\marvizu\Downloads\The Right Place\The Right Place\The Right Place\obj\Debug\The Right Place.pdb
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\ApplicationInsights.config
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\csc.exe
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\System.Collections.Immutable.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\System.Reflection.Metadata.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\vbc.exe
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe.config
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\The Right Place.dll.config
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\The Right Place.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\The Right Place.pdb
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.Web.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.xml
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.Web.xml
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.xml
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.xml
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\obj\Debug\The Right Place.csprojResolveAssemblyReference.cache
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\obj\Debug\The Right Place.dll
+E:\ADV Programming\right place mod\The Right Place\The Right Place\The Right Place\obj\Debug\The Right Place.pdb
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\ApplicationInsights.config
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\csc.exe
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\System.Collections.Immutable.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\System.Reflection.Metadata.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\vbc.exe
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe.config
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\The Right Place.dll.config
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\The Right Place.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\The Right Place.pdb
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.Agent.Intercept.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.Web.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.xml
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.Web.xml
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.xml
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.xml
+H:\right place mod\The Right Place\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\right place mod\The Right Place\The Right Place\The Right Place\obj\Debug\The Right Place.csprojResolveAssemblyReference.cache
+H:\right place mod\The Right Place\The Right Place\The Right Place\obj\Debug\The Right Place.dll
+H:\right place mod\The Right Place\The Right Place\The Right Place\obj\Debug\The Right Place.pdb
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\ApplicationInsights.config
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\roslyn\csc.exe
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\roslyn\System.Collections.Immutable.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\roslyn\System.Reflection.Metadata.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\roslyn\vbc.exe
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe.config
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\The Right Place.dll.config
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\The Right Place.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\The Right Place.pdb
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.Agent.Intercept.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.Web.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.xml
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.Web.xml
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.xml
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.xml
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\obj\Debug\The Right Place.csprojResolveAssemblyReference.cache
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\obj\Debug\The Right Place.dll
+E:\trp 11-14\TRP 11-9-17\The Right Place\The Right Place\The Right Place\obj\Debug\The Right Place.pdb
+E:\TRP UPDATED\The Right Place\The Right Place\bin\ApplicationInsights.config
+E:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\csc.exe
+E:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\System.Collections.Immutable.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\System.Reflection.Metadata.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\vbc.exe
+E:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe
+E:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe.config
+E:\TRP UPDATED\The Right Place\The Right Place\bin\The Right Place.dll.config
+E:\TRP UPDATED\The Right Place\The Right Place\bin\The Right Place.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\The Right Place.pdb
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.Agent.Intercept.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.Web.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.xml
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.Web.xml
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.xml
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.xml
+E:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TRP UPDATED\The Right Place\The Right Place\obj\Debug\The Right Place.csprojResolveAssemblyReference.cache
+E:\TRP UPDATED\The Right Place\The Right Place\obj\Debug\The Right Place.dll
+E:\TRP UPDATED\The Right Place\The Right Place\obj\Debug\The Right Place.pdb
+H:\TRP UPDATED\The Right Place\The Right Place\bin\ApplicationInsights.config
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\csc.exe
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\System.Collections.Immutable.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\System.Reflection.Metadata.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\vbc.exe
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe
+H:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe.config
+H:\TRP UPDATED\The Right Place\The Right Place\bin\The Right Place.dll.config
+H:\TRP UPDATED\The Right Place\The Right Place\bin\The Right Place.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\The Right Place.pdb
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.Agent.Intercept.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.Web.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.xml
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.Web.xml
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.xml
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.xml
+H:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\TRP UPDATED\The Right Place\The Right Place\obj\Debug\The Right Place.dll
+H:\TRP UPDATED\The Right Place\The Right Place\obj\Debug\The Right Place.pdb
+H:\TRP UPDATED\The Right Place\The Right Place\obj\Debug\The Right Place.csprojResolveAssemblyReference.cache
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\ApplicationInsights.config
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\csc.exe
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\System.Collections.Immutable.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\System.Reflection.Metadata.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\vbc.exe
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\roslyn\VBCSCompiler.exe.config
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\The Right Place.dll.config
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\The Right Place.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\The Right Place.pdb
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.Web.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.DependencyCollector.xml
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.Web.xml
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.AI.WindowsServer.xml
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.ApplicationInsights.xml
+Z:\TRP UPDATED\The Right Place\The Right Place\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\TRP UPDATED\The Right Place\The Right Place\obj\Debug\The Right Place.csprojAssemblyReference.cache
+Z:\TRP UPDATED\The Right Place\The Right Place\obj\Debug\The Right Place.csproj.CoreCompileInputs.cache
+Z:\TRP UPDATED\The Right Place\The Right Place\obj\Debug\The Right Place.csproj.CopyComplete
+Z:\TRP UPDATED\The Right Place\The Right Place\obj\Debug\The Right Place.dll
+Z:\TRP UPDATED\The Right Place\The Right Place\obj\Debug\The Right Place.pdb

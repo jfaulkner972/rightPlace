@@ -1,0 +1,155 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TRP.master.cs" Inherits="The_Right_Place.TRP" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/TRPStyle.css" rel="stylesheet" />
+    <script src="Scripts/jquery-3.2.1.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <link href="TRPMaster.css" rel="stylesheet" />
+    <link href="2BookingPageCSS.css" rel="stylesheet" />
+    <link href="3RoomOptions.css" rel="stylesheet" />
+    <link href="4StaffPageCSS.css" rel="stylesheet" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="headPlaceHolder" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" class="form-horizontal" runat="server">
+        <div>
+            <main>
+                <header>
+                    <div class="form-group">
+                        <div class="main">
+                            <div class="col-sm-2 paddingLogo">
+                                <%--sets logo padding value--%>
+                                <a href="1-HomePage.aspx"><%--click on logo to go to homepage--%>
+                                    <img class="img Logo" src="Images/rsz_logo1_2.png" />
+                                </a>
+                            </div>
+                            <div class="col-sm-8 text-center">
+                                <%--Company name/fancy designed name--%>
+                                <h1>The Right Place</h1>
+                            </div>
+                            <div class="col-sm-2 text-left">
+                                <h4 class="h4 Contact">Contact Us Today!</h4>
+                                <h6 class="h6 ContactE">Email: <a class="a Contact" href="mailto:TheRightPlace@trp.com?subject=Put%20subject%20desired%20content">TheRightPlace@trp.com </a></h6>
+                                <h6 class="h6 ContactP">Phone: 405-654-4562</h6>
+                                <!--Put contact information right here!-->
+
+                            </div>
+                        </div>
+                        <%--UPDATED NAVBAR--%>
+                        <div class="navbar">
+                            <nav>
+                                <div class="form-inline">
+                                    <div class="col-sm-1 text-right">
+                                        <h3>
+                                            <a class="paddingTable" href="1-HomePage.aspx">Home</a>
+                                        </h3>
+                                        <%--<p>Home</p>--%>
+                                    </div>
+                                    <div class="col-sm-2 text-center">
+                                        <%--<p>Booking</p>--%>
+                                        <h3>
+                                            <a href="2-BookingPage.aspx">Book a Room</a>
+                                        </h3>
+                                    </div>
+                                    <div class="col-sm-2 text-center">
+                                        <%--<p>Booking</p>--%>
+                                        <h3>
+                                            <a href="2.1-ViewReservation.aspx">View Reservation</a>
+                                        </h3>
+                                    </div>
+                                    <div class="col-sm-2 text-center">
+                                        <h3>
+                                            <asp:DropDownList class="paddingTable" ID="RoomList" runat="server" AutoPostBack="true" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged" CssClass="ddlRoomlist">
+                                                <asp:ListItem>Room Options</asp:ListItem>
+                                                <%--default DDL value. This is what shows up first in nav bar--%>
+                                                <asp:ListItem>All Rooms</asp:ListItem>
+                                                <asp:ListItem>Small Rooms</asp:ListItem>
+                                                <asp:ListItem>15 Person Rooms</asp:ListItem>
+                                                <asp:ListItem>50 Person Rooms</asp:ListItem>
+                                                <asp:ListItem>200 Person Rooms</asp:ListItem>
+                                                <asp:ListItem>Auditorium</asp:ListItem>
+                                                <asp:ListItem>Ballroom</asp:ListItem>
+                                                <asp:ListItem>Courtyard</asp:ListItem>
+                                            </asp:DropDownList>
+                                        </h3>
+                                    </div>
+                                    <div class="col-sm-1 text-center">
+                                        <h3>
+                                            <a class="paddingTable" href="4-StaffPage.aspx">Staff</a>
+                                        </h3>
+                                    </div>
+                                    <div class="col-sm-2 text-center">
+                                        <h3>
+                                            <a class="paddingTable" href="5-TestimoniesPictures.aspx">Testimonials</a>
+                                        </h3>
+                                    </div>
+                                    <div class="col-sm-2 text-center">
+                                        <h3>
+                                            <a class="paddingTable" href="6-AboutUsPage.aspx">About Us</a>
+                                        </h3>
+                                    </div>
+                                </div>
+
+                            </nav>
+                        </div>
+
+                        <!--<nav>
+                            <%--navigation code change the tables to divs with col small aftert the prototype--%> 
+                            <table>
+                                <tr style = "color:#0000EE; Background:#FF7700">
+                                    <td class="paddingTable"><a href="1-HomePage.aspx">Home </a></td>
+                                    <%--goes to homepage--%>
+                                    <td class="paddingTable"><%--DDL for booking related pages redirect code on code behind--%>
+                                        <asp:DropDownList ID="BookingOptionList" runat="server" AutoPostBack="true" OnSelectedIndexChanged="BookingOptionList_SelectedIndexChanged" >
+                                            <asp:ListItem>Booking Options</asp:ListItem>
+                                            <%--default DDL value. This is what shows up first in nav bar--%>
+                                            <asp:ListItem>Book A Room</asp:ListItem>
+                                            <asp:ListItem>View Availability</asp:ListItem>
+                                            <asp:ListItem>View Reservation</asp:ListItem>
+                                        </asp:DropDownList>
+
+                                    </td>
+                                    <td class="paddingTable"><%--DDL for room related pages, redirect code on code behind--%>
+                                        <asp:DropDownList ID="RoomList1" runat="server" AutoPostBack="true" OnSelectedIndexChanged="DropDownList1_SelectedIndexChanged">
+                                            <asp:ListItem>Room Options</asp:ListItem>
+                                            <%--default DDL value. This is what shows up first in nav bar--%>
+                                            <asp:ListItem>All Rooms</asp:ListItem>
+                                            <asp:ListItem>15 Person Room</asp:ListItem>
+                                            <asp:ListItem>50 Person Room</asp:ListItem>
+                                            <asp:ListItem>200 Person Room</asp:ListItem>
+                                            <asp:ListItem>1000 Person Room</asp:ListItem>
+                                            <asp:ListItem>Ballroom</asp:ListItem>
+                                            <asp:ListItem>Courtyard</asp:ListItem>
+                                            <asp:ListItem>Small Rooms</asp:ListItem>
+                                        </asp:DropDownList>
+                                    </td>
+                                    <td class="paddingTable"><a href="4-StaffPage.aspx" >Staff </a></td>
+                                    <%--redirects to staff page--%>
+                                    <td class="paddingTable"><a href="5-TestimoniesPictures.aspx" ">Testimonials </a></td>
+                                    <%--redirects to testimonials--%>
+                                    <td class="paddingTable"><a href="6-AboutUsPage.aspx" >About Us </a></td>
+                                    <%--redirects to about us--%>
+                                </tr>
+                            </table>
+                        </nav>-->
+                    </div>
+                </header>
+                <h1 class="text-center"><%--center page name--%>
+                    <asp:Label ID="pageHeader" runat="server"></asp:Label>
+                </h1>
+                <div>
+                    <%--page content goes here--%>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </main>
+        </div>
+    </form>
+</body>
+</html>

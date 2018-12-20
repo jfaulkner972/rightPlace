@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="therightplace-afk" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^H:\\TRP\ UPDATED\\The\ Right\ Place\\The\ Right\ Place\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^H:\\TRP\ UPDATED\\The\ Right\ Place\\The\ Right\ Place\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="F17_ksjrfaulkConnectionString-Web.config Connection String" description="" value="Data Source=TCP:139.78.8.180,22;Initial Catalog=F17_ksjrfaulk;Persist Security Info=True;User ID=ksjrfaulk;Password=ABCD123!" tags="">
+    <parameterEntry kind="XmlFile" scope="H:\\TRP\ UPDATED\\The\ Right\ Place\\The\ Right\ Place\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='F17_ksjrfaulkConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

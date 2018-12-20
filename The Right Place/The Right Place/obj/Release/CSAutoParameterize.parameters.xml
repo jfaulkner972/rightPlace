@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="F17_ksjrfaulkConnectionString-Web.config Connection String" description="F17_ksjrfaulkConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=TCP:139.78.8.180,22;Initial Catalog=F17_ksjrfaulk;Persist Security Info=True;User ID=ksjrfaulk;Password=ABCD123!" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="H:\\TRP\ UPDATED\\The\ Right\ Place\\The\ Right\ Place\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='F17_ksjrfaulkConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

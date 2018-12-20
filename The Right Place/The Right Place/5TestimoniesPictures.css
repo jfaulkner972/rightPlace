@@ -1,0 +1,52 @@
+﻿body {
+    background-color: mintcream;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin: 50px 300px 0px 0px;
+}
+
+h4{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+h6{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:32px;
+    font-weight:bold;
+    margin-top:50px;
+}
+
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:16px;
+    font-weight:400;
+}
+
+#imgAmber{
+    width:200px;
+    height:200px;
+
+}
+
+#imgJoanne{
+    width:200px;
+    height:200px;
+}
+
+#divAmber{
+    margin-right:50px;
+}
+
+#divJoanne{
+    margin-right:50px;
+}
+
+#imgTwitter{
+    width:90px;
+    height:90px;
+}

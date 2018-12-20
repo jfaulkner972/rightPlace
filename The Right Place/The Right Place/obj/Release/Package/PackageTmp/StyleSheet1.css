@@ -1,0 +1,27 @@
+﻿body {
+    color:white;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    background-color:white;
+    width: 931px;
+    color:black;
+}
+
+.paddingLogo{/*fixes logo spacing*/
+    padding-bottom:0;
+    padding-right:.5em;
+    padding-top:0;
+}
+
+nav{/*navigation colors and stuff*/
+    background-color:#FF7300;
+    color:white;
+}
+
+.paddingTable{/*spaces out navigation bar better. In my opinion*/
+    padding-left:2em;
+    padding-right:2em;
+    color:black;
+}

@@ -1,0 +1,40 @@
+﻿body {
+    background-color:mintcream;
+}
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h4{
+    font-family:Arial, Helvetica, sans-serif;
+    color:orangered;
+}
+
+h5{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#imgGary{
+    width:250px;
+    height:230px;
+}
+
+#imgMika{
+    width:250px;
+    height:230px;
+}
+
+#imgPaul{
+    width:250px;
+    height:230px;
+}
+
+#imgFelicia{
+    width:250px;
+    height:230px;
+}
+
+#imgCade{
+    width:250px;
+    height:230px;
+}
